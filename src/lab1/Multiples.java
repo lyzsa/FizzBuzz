@@ -19,4 +19,9 @@ public class Multiples {
         }
         return count;
     }
+
+    public static int multiples(){
+        return multiples(100,3,5);
+    }
+
 }
